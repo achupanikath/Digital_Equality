@@ -1,0 +1,2 @@
+SN,Name,Job position,Where the,Antivirus,VPN,location of,Employee Work location
+1,Michael,CEO,Yes,None, Global Protect,google domain,Yes
